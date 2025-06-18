@@ -1,0 +1,18 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#login,#signin{
+  background-color: brown;
+  color: white;
+}
+
+h1,h2{
+    color: brown;
+}
+
+.upvote{
+    padding: 10px;
+    color: white;
+    background-color: green;
+}

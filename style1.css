@@ -1,0 +1,22 @@
+*{
+   font-family: 'Courier New', Courier, monospace;
+   padding: 5px;
+   margin: 5px;
+}
+h1{
+  color: #1b74e4;
+}
+
+hr{
+    margin: 0;
+    padding: 0;
+}
+
+#search{
+    color: white;
+    background-color: black;
+}
+
+#login,#signin{
+    background-color: aqua;
+}
